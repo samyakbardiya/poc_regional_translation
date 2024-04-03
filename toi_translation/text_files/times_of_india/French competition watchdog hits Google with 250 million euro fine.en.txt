@@ -1,0 +1,23 @@
+French competition watchdog hits Google with 250 million euro fine
+
+PARIS: France's competition watchdog on Wednesday said it fined Alphabet's Google 250 million euros ($271.73 million) for breaches linked to EU intellectual property rules in its relationship with media publishers, citing concerns about the company's AI service.
+
+The watchdog said Google's AI-powered chatbot Bard - since rebranded under the name Gemini - was trained on content from publishers and news agencies, without notifying them. 
+
+Google has pledged not to contest the facts as part of settlement proceedings, the watchdog said, adding the company also proposed a series of remedy measures to certain shortcomings.
+
+Google's office in France did not immediately reply to a request for comment.
+
+The fine is linked to a copyright dispute in France over online content in a case triggered by complaints from some of the country's biggest news organisations, including Agence France Presse (AFP).
+
+The dispute appeared to be resolved in 2022 when the U.S. tech giant dropped its appeal against an initial 500 million euro fine issued at the end of a major investigation carried out by the Autorite de la Concurrence.
+
+But in Wednesday's statement, the watchdog said Google violated the terms of four out of seven commitments agreed in the settlement, including conducting negotiations with publishers in good faith and providing transparent information.
+
+The watchdog in particular cited Google's AI chatbot Bard, launched in 2023, which it said was trained on data from unspecified media outlets and news agencies without the company informing them or the regulator.
+
+"Subsequently, Google linked the use of the content concerned by its artificial intelligence service to the display of protected content", the watchdog said, adding that in doing so Google hindered the ability of publishers and press agencies to negotiate fair prices.
+
+The fine comes as many publishers, writers and newsrooms seek to limit the scraping - or automatic collection of data - by AI services of their online content without their consent of fair compensation.
+
+The New York Times in 2023 sued Google rivals Microsoft and OpenAI, the creator of the popular artificial-intelligence platform ChatGPT, accusing them of using millions of the newspaper's articles without permission to help train chatbots.
