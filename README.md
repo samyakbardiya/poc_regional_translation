@@ -1,3 +1,10 @@
-# POC for Language Translation
+# POC for TOI Translation
 
-I tried language translation using Google Translate, Google Gemini, and OpenAI ChatGPT.
+## Setup
+
+```py
+poetry shell
+poetry install
+
+python main.py
+```
