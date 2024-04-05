@@ -11,8 +11,8 @@ router = APIRouter(tags=["Translation"])
 @router.post("/generate_content")
 async def translate_via_generate_content(
     text: str = Body(embed=True),
-    from_language=Language.ENGLISH,
-    to_language=Language.HINDI,
+    from_language: Language = Language.ENGLISH,
+    to_language: Language = Language.HINDI,
 ):
     logger.debug(f"Text: {text}")
 
@@ -26,8 +26,8 @@ async def translate_via_generate_content(
 @router.post("/chat")
 async def translate_via_chat(
     text: str = Body(embed=True),
-    from_language=Language.ENGLISH,
-    to_language=Language.HINDI,
+    from_language: Language = Language.ENGLISH,
+    to_language: Language = Language.HINDI,
 ):
     logger.debug(f"Text: {text}")
 
